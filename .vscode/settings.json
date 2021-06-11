@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "00-big-o",
+        "01-array",
+    ]
+}
